@@ -27,9 +27,6 @@ public class Dasher : ModuleRules
 			"Dasher/Variant_Platforming",
 			"Dasher/Variant_Combat",
 			"Dasher/Variant_Combat/AI",
-			"Dasher/Variant_SideScrolling",
-			"Dasher/Variant_SideScrolling/Gameplay",
-			"Dasher/Variant_SideScrolling/AI"
 		});
 
 		// Uncomment if you are using Slate UI
